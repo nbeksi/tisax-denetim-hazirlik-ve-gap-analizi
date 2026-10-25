@@ -64,9 +64,9 @@ ENX TISAX Participant Handbook'ta yapılan ve **1 Ocak 2025 itibarıyla yürürl
 
 ---
 
-## 6. ISA2027 Geçişinin Değerlendirme Hazırlığına Etkisi
+## 6. VDA ISA Sürümleri ve ISA2027 Geçişinin Değerlendirme Hazırlığına Etkisi
 
-- **Yayın Tarihi:** ISA2027 kataloğu ENX ve VDA tarafından **2026 yılı içerisinde** yayımlanmıştır.
-- **Yürürlük Tarihi:** ISA2027 **2027 yılı değerlendirmeleri için bağlayıcı** olacaktır.
-- **2026 Yılı Değerlendirmeleri:** Şu anda yürütülen tüm hazırlık ve denetimler **VDA ISA 6.0 / 6.0.1** kataloğuna göre sonuçlandırılmaktadır.
-- **Hazırlık Stratejisi:** Tesisler 2026 denetimlerini VDA ISA 6.0'a göre tamamlarken, 3 yıllık etiket süresinin yenilenmesinde ISA2027'nin getireceği modernleştirilmiş kontrolleri şimdiden mimarilerine entegre etmelidir.
+- **Güncel Katalog:** Değerlendirmelerde aktif olarak kullanılan en güncel standart ana sürümü **VDA ISA 6.0.3** (ve ilgili 6.0.x revizyonları)'dır.
+- **Sipariş Tarihi ve Uygulanabilirlik Kuralı:** Bir denetimde hangi katalog sürümünün geçerli olacağı; akredite denetim sağlayıcısı ile akdedilen **değerlendirme sipariş sözleşmesi tarihine (assessment ordering date)**, değerlendirmenin ilk denetim veya yeniden belgelendirme durumuna ve ENX geçiş yönergelerine göre belirlenir. Yürürlükteki bir sipariş kapsamında başlayan denetimler, sözleşme tarihindeki geçerli sürüm şartlarına göre sonuçlandırılır.
+- **ISA2027 Geçişi:** ENX ve VDA tarafından duyurulan **ISA2027** mimarisi, otomotiv tedarikçilerine yeni nesil güvenlik kontrollerine uyum sağlamaları için bir geçiş penceresi tanımaktadır. ENX takvimine göre 2027 yılından itibaren başlayacak yeni değerlendirme siparişlerinde ISA2027 kademeli olarak zorunlu standart haline gelecektir.
+- **Hazırlık Stratejisi:** Tedarikçiler mevcut değerlendirme süreçlerini VDA ISA 6.0.3 şartlarına göre planlarken, 3 yıllık TISAX etiket döngüsünün devamlılığı için ISA2027 ile gelen güncel bulut ve tedarik zinciri kontrollerini şimdiden yönetim sistemlerine dahil etmelidir.

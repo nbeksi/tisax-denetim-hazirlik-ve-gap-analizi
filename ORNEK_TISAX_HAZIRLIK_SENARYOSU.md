@@ -50,7 +50,7 @@ flowchart TD
 
 ### Aşama 1: 1–30. Gün — Kapsam Netleştirme ve Acil İzolasyon
 - ENX Portalı üzerinde `Participant ID` ve `Scope ID` oluşturulması.
-- VDA ISA 6.0 uyumlu BGYS Politika ve Prosedür setinin yayımlanması.
+- VDA ISA 6.0.3 uyumlu BGYS Politika ve Prosedür setinin yayımlanması.
 - OT ve IT ağlarının endüstriyel firewall ile VLAN bazında ayrılması; robot hatlarının internete doğrudan çıkışının kesilmesi.
 - Kurumsal bulut depolama için kurumsal şifreli SFTP / OEM onaylı veri değişim altyapısının devreye alınması; harici dosya paylaşım sitelerinin engellenmesi.
 
