@@ -11,7 +11,7 @@ Bu rehber; resmî **ENX TISAX Participant Handbook** kurallarına dayanarak AL2 
 Değerlendirme Seviyesi (Assessment Level), denetimin **ne kadar derinlemesine ve hangi yöntemle** gerçekleştirileceğini belirler:
 
 - **AL1 (Assessment Level 1):** Yalnızca kurum içi öz değerlendirmedir. Akredite denetim firması dahil edilmez ve sonuçlar ENX Portalı üzerinde TISAX Etiketi olarak paylaşılamaz.
-- **AL2 (Assessment Level 2 - Plausibility Check):** Akredite denetim sağlayıcısı tarafından gerçekleştirilen **inandırıcılık kontrolüdür (plausibility check)**. Temel olarak uzaktan video konferans mülakatları ve kanıt incelemeleriyle yürütülür.
+- **AL2 (Assessment Level 2 - Plausibility Check):** Akredite denetim sağlayıcısı tarafından gerçekleştirilen **inandırıcılık kontrolüdür (plausibility check)**. Temel olarak uzaktan video konferans mülakatları ve kanıt incelemeleriyle yürütülür. İhtiyaca ve ilgili ENX kurallarına göre yerinde görüşme veya kanıt incelemesi de gerçekleştirilebilir.
 - **AL3 (Assessment Level 3 - Comprehensive Verification):** Akredite denetim sağlayıcısının tesisinize bizzat gelerek gerçekleştirdiği **kapsamlı yerinde doğrulamadır (on-site audit)**.
 
 ---
